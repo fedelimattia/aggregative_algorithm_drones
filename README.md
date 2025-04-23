@@ -1,0 +1,1 @@
+In this project the aggregative distributed algorithm is implemented, in order to select the best positions for drones to defend a target drones from opponent drones. Each drone has its own dynamics model and LQR controller.
